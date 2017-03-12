@@ -1,0 +1,31 @@
+Privacy Policy for "N's LED Light & Task Killer"
+ 2017/03/12
+
+(1) 本プライバシーポリシーは、下記アプリに適用されます。
+  This privacy policy is applied to the folowing application(s).
+
+  N's LED Light & Task Killer
+ （パッケージ名 jp.stargroove.naoya.android.ledwidget）
+
+(2) 本アプリは、カメラへのアクセス権限を要求していますが、
+ これはフラッシュライトの制御のためにのみ使われており、
+ カメラ画像やプライバシーに関する情報をアプリが収集することはありません。
+  Although this application requires access permission to the camera,
+  its permission is used only for controlling the flashlight, 
+  and the application will not collect information on camera images or 
+  your privacy.
+
+(3) つまり、私が利用者のプライバシー情報にアクセスすることはありません。
+  That is, We will not access the privacy information of the user.
+
+(4) 本ポリシーに関する問い合わせについては下記メールアドレスに連絡ください。
+  For inquiries regarding this policy, 
+  please contact the following e-mail address.
+
+ Yoshida Chikara / naoya2k@gmail.com
+
+ 
+
+
+
+
